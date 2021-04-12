@@ -1,0 +1,39 @@
+* {
+  font-family: "aquawax";
+  margin: 0px;
+  padding: 0px;
+}
+@font-face {
+  font-family: "aquawax";
+  src: url(fonts/aquawax/Aquawax\ Black\ Trial.ttf);
+  font-style: normal;
+  font-weight: normal;
+}
+
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.container {
+  max-width: 1000px;
+  background-color: #006668;
+}
+.content-section {
+  max-width: 950px;
+  background-color: #0c4db4;
+}
+
+.main-header {
+  max-height: 300px;
+  width: fit-content;
+  background-color: #1069a3;
+  padding-bottom: 25px;
+}
+.main-footer {
+  max-height: 300px;
+  width: fit-content;
+  background-color: #1069a3;
+  padding-top: 25px;
+  margin-bottom: 50px;
+}
